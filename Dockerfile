@@ -1,5 +1,5 @@
-# Pull base images
-From tomcat:8-jre8 
+# Pull base images from dockerhub site
+From tomcat:latest
 
 #@`` Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
